@@ -1,7 +1,10 @@
 __pycache__
 .mypy_cache
 .pytest_cache
+temp_auto_push.bat
 definitions-cache.json
 definitions-latest
 *.log
 definitions.tar.xz
+.gitignore
+branch_structure.json
